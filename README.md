@@ -1,4 +1,4 @@
-Bidirectional Brushed Motor ESC with ATtiny85
+#Bidirectional Brushed Motor ESC with ATtiny85
 
 This project is a bidirectional Electronic Speed Controller (ESC) for brushed DC motors, designed around the ATtiny85 microcontroller. 
 The ESC interprets standard RC PWM signals to control motor speed and direction through an H-bridge MOSFET configuration. The project 
